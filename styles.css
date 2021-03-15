@@ -10,3 +10,34 @@
     display: flex; 
     align-items: flex-end; 
 }
+
+#title{
+    font-size: 56px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+#credits{
+    color: #9b9b9b;
+    margin: 0;
+    font-size: 25px;
+}
+#blue_credits{
+    color: #56beeb;
+    margin: 0;
+}
+#article_date{
+    color: #9b9b9b;
+    margin-top: 0;
+    font-size: 18px;
+}
+
+#main_article_images{
+    width:90%;
+    height: 300px;
+    
+}
+.main_image{
+    width: 49%;
+    height: 400px;
+}
