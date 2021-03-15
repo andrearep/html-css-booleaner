@@ -45,14 +45,23 @@ p,ul,li,table{
     width: 49%;
     height: 400px;
 }
+#paragraph_1{
+    padding-bottom: 20px;
+}
+
 .yellow_p{
     background-color: yellow;
 }
 
+#list{
+    padding-bottom: 20px;
+}
 table{
     width: 100%;
     border-collapse: collapse;
+    padding-bottom: 20px;
 }
+
 
 .size_columns{
     width: 50%;
@@ -72,16 +81,17 @@ th{
 }
 .article_name{
     color:white;
-    margin: 0 20px;
+    padding: 13px 20px;
     margin-top: 30px;
     font-size: 28px;
 }
 
 .article1, .article2{
+    margin-top: 15px;
     height:270px;
     width: 300px;
     background-size: cover;
-    margin: 15px 0 ;
+    
 }
 
 .article1{
