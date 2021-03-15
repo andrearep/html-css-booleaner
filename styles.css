@@ -1,0 +1,12 @@
+#logo{
+    width: 250px;
+    margin: 18px 10px;
+}
+
+#header_site{
+    height: 175px;
+    background-color: #4ea0ff ;
+    background-image: url("./img/pattern.png");
+    display: flex; 
+    align-items: flex-end; 
+}
